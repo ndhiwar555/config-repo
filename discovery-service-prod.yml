@@ -1,8 +1,0 @@
-eureka:
-  instance:
-    hostname: discovery-service.prod.internal
-spring:
-  profiles: prod
-logging:
-  level:
-    root: INFO

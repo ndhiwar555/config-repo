@@ -1,8 +1,0 @@
-eureka:
-  instance:
-    hostname: localhost
-spring:
-  profiles: dev
-logging:
-  level:
-    root: DEBUG
